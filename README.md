@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Jess 👋
 
-<!--
-**JessBooth-Data/JessBooth-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a scientist with a background in **drug discovery, assay development and biological research**, currently developing my skills in data analysis and visualisation.
 
-Here are some ideas to get you started:
+I'm interested in using data to solve practical problems, identify patterns and communicate insights clearly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Background
+
+My professional background is in pharmaceutical and biomedical research, with experience in:
+
+* Drug discovery and preclinical research
+* Biological assay development and screening
+* Experimental data analysis
+* Project and resource coordination
+* Working across multidisciplinary research teams
+
+I'm now building on this experience by developing skills in **Python, SQL and Power BI**.
+
+## 🐍 Python
+
+Currently developing my Python skills, with a focus on:
+
+* pandas
+* Data cleaning and transformation
+* Data analysis
+* Data visualisation
+* Working with Excel and other datasets
+
+## 🗄️ SQL
+
+Currently learning SQL, including:
+
+* Data querying
+* Filtering and aggregation
+* Joins
+* Data analysis
+
+## 📊 Power BI
+
+Currently developing skills in:
+
+* Data visualisation
+* Interactive dashboards
+* Data exploration
+* Reporting
+
+## 🧪 Projects
+
+I'm building projects that combine my scientific background with my developing data skills, with a particular interest in **scientific and real-world datasets**.
+
+More projects coming soon!
+
+## 📚 Currently learning
+
+🐍 Python
+🗄️ SQL
+📊 Power BI
+📈 Data analysis and visualisation
