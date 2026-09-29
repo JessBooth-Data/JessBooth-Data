@@ -1,6 +1,6 @@
 # Hi, I'm Jess 👋
 
-I'm a scientist with a background in **drug discovery, assay development and biological research**, currently developing my skills in data analysis and visualisation.
+I'm a scientist with a background in **drug discovery, assay development and biological research**, currently developing my skills in data analysis, visualisation and business intelligence.
 
 I'm interested in using data to solve practical problems, identify patterns and communicate insights clearly.
 
@@ -9,12 +9,12 @@ I'm interested in using data to solve practical problems, identify patterns and 
 My professional background is in pharmaceutical and biomedical research, with experience in:
 
 * Drug discovery and preclinical research
-* Biological assay development and screening
+* Biological assay development and high-throughput screening
 * Experimental data analysis
 * Project and resource coordination
 * Working across multidisciplinary research teams
 
-I'm now building on this experience by developing skills in **Python, SQL and Power BI**.
+I'm now building on this experience by developing skills in **Python, SQL and Power BI**, with the aim of moving towards data-focused roles.
 
 ## 🐍 Python
 
