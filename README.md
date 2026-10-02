@@ -52,7 +52,9 @@ More projects coming soon!
 
 ## 📚 Currently learning
 
-🐍 Python
+📈 Data analysis and visualisation
+🔢 Advanced Excel
 🗄️ SQL
 📊 Power BI
-📈 Data analysis and visualisation
+🐍 Python
+
